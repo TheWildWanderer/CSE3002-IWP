@@ -1,2 +1,2 @@
 # CSE3002-IWP
-This repo basic programs on HTML & CSS 
+This repo contains basic programs on HTML & CSS 
